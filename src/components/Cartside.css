@@ -1,0 +1,24 @@
+.containercart{
+     width: 1000px;
+     margin-top: 100px;
+     display: flex;
+     align-items: center;
+     justify-content: center;
+
+}
+.close{
+     cursor: pointer;
+     width: 80px;
+     height: 80px;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+}
+
+.imagecart{
+     display: flex;
+     flex-direction: column;
+     overflow-y: auto;
+     overflow-x: hidden;
+     height: 360px;
+}
